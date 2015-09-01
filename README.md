@@ -1,2 +1,2 @@
 # dsci_402
-Repository for DSCI 402
+This is different text than it was before.
