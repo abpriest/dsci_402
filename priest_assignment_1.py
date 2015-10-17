@@ -1,3 +1,4 @@
+#Alex Priest
 def flatten(mess):
         if mess == []:
                 return []
